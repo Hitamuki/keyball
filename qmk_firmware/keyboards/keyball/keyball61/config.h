@@ -30,6 +30,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SOFT_SERIAL_PIN         D2
 #define SPLIT_HAND_MATRIX_GRID  F7, D7
 #define SPLIT_USB_DETECT
+#define SPLIT_USB_TIMEOUT       2000 // Macbook intel板対応
 #ifdef OLED_ENABLE
 #    define SPLIT_OLED_ENABLE
 #endif

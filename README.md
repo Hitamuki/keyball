@@ -48,7 +48,13 @@
 
 ## 将来対応
 
-- keyball61をワイヤレス化する
+- キースイッチをメンテナンスする
+- 静音化する
+- 静音リニアと静音タクタイルのキースイッチを厳選する
+- keyball61 → keyball39に移行する
+  - PCBカラーリング
+  - ワイヤレス化
+  - オートマウスレイヤー
 - QMKを理解する
   - デバッグ
   - ドキュメントを読み込む
@@ -56,13 +62,11 @@
 - RE MAPで設定不要にするため、「keymap.c」でキー配列をカスタマイズする
 - OLEDの表示をカスタマイズする
   - ねこの肉球、ねこを走らせる
-- キースイッチをメンテナンスする
-- 3Dプリンターでケースなどを作成する
-- キーキャップを自作する
-- 静音化する
-- 静音リニアと静音タクタイルのキースイッチを厳選する
-- ロープロファイルのキーボードを自作する(7sKB or 7sProMax)
-- keyball39に移行する
+- 3Dプリンターで自作する
+  - keyballケース
+  - トラックボールケース
+  - OLEDカバー
+- 自作キーキャップを製作する
 
 ## 参考
 
@@ -113,11 +117,11 @@ Keyboards in the family are:
 
 ## Where to Buy
 
-| Keyboard  | Yushakobo / 遊舎工房                      | Shirogane Lab / 白金ラボ                                   |
-| --------- | ----------------------------------------- | ---------------------------------------------------------- |
-| Keyball39 | <https://shop.yushakobo.jp/products/5357> | <https://shirogane-lab.net/items/64b8f8693ee3fd0045280190> |
-| Keyball44 | N/A                                       | <https://shirogane-lab.net/items/64b7a006eb6dbe00346cd0c5> |
-| Keyball61 | <https://shop.yushakobo.jp/products/5358> | <https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30> |
+|Keyboard   |Yushakobo / 遊舎工房                       |Shirogane Lab / 白金ラボ                                   |
+|-----------|-------------------------------------------|-----------------------------------------------------------|
+|Keyball39  |<https://shop.yushakobo.jp/products/5357>  |<https://shirogane-lab.net/items/64b8f8693ee3fd0045280190> |
+|Keyball44  |<https://shop.yushakobo.jp/products/8337>  |<https://shirogane-lab.net/items/64b7a006eb6dbe00346cd0c5> |
+|Keyball61  |<https://shop.yushakobo.jp/products/5358>  |<https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30> |
 
 ## Build Guide
 
